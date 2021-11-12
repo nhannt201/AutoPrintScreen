@@ -1,0 +1,11 @@
+N:\VB.NET\AutoPrintScreen\AutoPrintScreen\obj\Debug\AutoPrintScreen.vbprojResolveAssemblyReference.cache
+N:\VB.NET\AutoPrintScreen\AutoPrintScreen\obj\Debug\AutoPrintScreen.home.resources
+N:\VB.NET\AutoPrintScreen\AutoPrintScreen\obj\Debug\AutoPrintScreen.Resources.resources
+N:\VB.NET\AutoPrintScreen\AutoPrintScreen\obj\Debug\AutoPrintScreen.vbproj.GenerateResource.Cache
+N:\VB.NET\AutoPrintScreen\AutoPrintScreen\obj\Debug\AutoPrintScreen.xml
+N:\VB.NET\AutoPrintScreen\AutoPrintScreen\bin\Debug\AutoPrintScreen.exe
+N:\VB.NET\AutoPrintScreen\AutoPrintScreen\bin\Debug\AutoPrintScreen.pdb
+N:\VB.NET\AutoPrintScreen\AutoPrintScreen\bin\Debug\AutoPrintScreen.xml
+N:\VB.NET\AutoPrintScreen\AutoPrintScreen\obj\Debug\AutoPrintScreen.exe
+N:\VB.NET\AutoPrintScreen\AutoPrintScreen\obj\Debug\AutoPrintScreen.pdb
+N:\VB.NET\AutoPrintScreen\AutoPrintScreen\bin\Debug\AutoPrintScreen.exe.config
